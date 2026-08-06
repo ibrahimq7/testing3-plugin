@@ -1,42 +1,29 @@
 ```
-# TypeScript/Node.js
-node_modules/
-dist/
-build/
-.npm/
-.yarn/
-
-# Dependencies
-.pnp.*
-.pnp.js
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs
-*.log
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 # Environment
+.venv/
+venv/
 .env
 .env.local
 *.env.*
 
-# Coverage
-coverage/
-.nyc_output/
-istanbul/
-.jest/
-
-# Temporary files
+# Logs and temporary files
+*.log
 *.tmp
-*.temp
-.DS_Store
-Thumbs.db
+*.swp
 
-# Compiled JavaScript
-*.js.map
-*.tsbuildinfo
+# Editors
+.vscode/
+.idea/
+
+# Dependencies and build artifacts
+node_modules/
+dist/
+build/
+target/
 ```
