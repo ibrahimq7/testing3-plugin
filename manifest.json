@@ -1,0 +1,11 @@
+{
+  "name": "Elementor Engine AI",
+  "id": "elementor-engine-ai-free-clone",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["*"]
+  }
+}

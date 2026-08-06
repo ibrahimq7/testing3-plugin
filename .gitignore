@@ -1,0 +1,42 @@
+```
+# TypeScript/Node.js
+node_modules/
+dist/
+build/
+.npm/
+.yarn/
+
+# Dependencies
+.pnp.*
+.pnp.js
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Coverage
+coverage/
+.nyc_output/
+istanbul/
+.jest/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Compiled JavaScript
+*.js.map
+*.tsbuildinfo
+```
